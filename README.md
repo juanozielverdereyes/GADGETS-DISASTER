@@ -1,0 +1,2 @@
+# GADGETS-DISASTER
+Aplicación para 
